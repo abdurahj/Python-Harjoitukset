@@ -7,4 +7,4 @@ hello.py tehty
 Moduuli 2
 harjoittelin itsekseni erilaisia kommentoja
 Moduuli 3
-tein tehtvät 1 ja 2
+tein tehtvät 1,2,3 ja 4
