@@ -11,3 +11,5 @@ tein tehtvät 1,2,3 ja 4
 loin uuden kansion tunnilla "esimerkki" tein siihen tuon open tekemmän esimerkki
 Moduuli 4
 tein tehtävät 1,2,3,4 ja 5
+Moduuli 5
+tein tehtävät 1,2,3 ja 4
