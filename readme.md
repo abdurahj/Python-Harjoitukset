@@ -15,3 +15,5 @@ Moduuli 5
 tein tehtävät 1,2,3 ja 4
 kertaus tehtävät
 tein tehtävät 1-6
+Moduuli 6
+tein tehtävät 1-3
